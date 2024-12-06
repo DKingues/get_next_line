@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: dicosta- <dicosta-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/11/26 17:03:04 by dicosta-          #+#    #+#             */
-/*   Updated: 2024/12/04 21:09:46 by dicosta-         ###   ########.fr       */
+/*   Created: 2024/12/06 17:07:55 by dicosta-          #+#    #+#             */
+/*   Updated: 2024/12/06 17:46:33 by dicosta-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	linelen(char *s)
 {
